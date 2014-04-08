@@ -1,0 +1,115 @@
+/* * * * * * * * * * * */
+/* Generator Main Page */
+/* * * * * * * * * * * */
+/* Band of color across page */
+.stretchcolor {
+  width: 100%;
+  background: #23918A;
+  margin-top: 40px;
+  color: white;
+  padding: 20px 0 30px;
+  border-top: 1px solid #126762;
+  border-bottom: 2px solid #126762;
+  margin-bottom: 20px; }
+
+/* Main page column formatting */
+.generator-main {
+  width: 800px;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 00px;
+  font-family: 'Lato', sans-serif; }
+
+.generator-col {
+  padding-top: 10px;
+  font-family: 'Lato', sans-serif; }
+
+.generator-each {
+  font-family: 'Lato', sans-serif;
+  text-align: center; }
+
+.generator-each h3 {
+  text-align: left; }
+
+.generator-each {
+  border: 3px solid #efefef;
+  padding: 0 20px;
+  margin-right: 20px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  border-radius: 40px; }
+
+.generator-each:hover {
+  border-color: #59a51e; }
+
+.generator-col h3 {
+  font-weight: 400;
+  color: white; }
+
+.generator-col h3 a {
+  color: #59a51e; }
+
+.generator-details div p {
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  line-height: 24px;
+  padding-right: 25px;
+  font-weight: 300; }
+
+#demoscreen {
+  margin: 14px auto;
+  text-align: center;
+  padding-right: 13px; }
+
+/* * * * * */
+/* Builder */
+/* * * * * */
+.builder {
+  width: 800px;
+  margin: 0px auto;
+  text-align: left;
+  font-size: 18px;
+  line-height: 22px; }
+
+/* Make the big step numbers */
+.builder-step {
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  border-radius: 40px;
+  padding: 12px;
+  background: #23918A;
+  width: 24px;
+  height: 24px;
+  display: block;
+  float: left;
+  color: white;
+  font-size: 29px;
+  text-align: center;
+  margin: -10px 10px 30px 0; }
+
+.builder h3 {
+  margin-top: 37px;
+  padding-top: 10px;
+  margin-bottom: 10px; }
+
+.builder .bigtext {
+  clear: both; }
+
+.builder .bigtext h4 {
+  margin-bottom: .33em; }
+
+.builder #build-make {
+  background: #23918A !important; }
+
+.builder #build-make:hover {
+  background: #1A817A !important; }
+
+.builder .detail-side {
+  display: block;
+  float: right;
+  width: 270px;
+  font-size: 16px;
+  line-height: 19px;
+  margin-top: 0; }
